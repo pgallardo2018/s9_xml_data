@@ -1,0 +1,1 @@
+{"name":"xml-processor","version":"1.0.0","main":"src/index.js","type":"module","scripts":{"start":"node src/index.js","dev":"nodemon src/index.js"},"dependencies":{"@supabase/supabase-js":"^2.47.2","crypto":"^1.0.1","csv-writer":"^1.6.0","dotenv":"^16.4.7","winston":"^3.17.0","xml2js":"^0.6.2"},"devDependencies":{"nodemon":"^3.1.7"}}

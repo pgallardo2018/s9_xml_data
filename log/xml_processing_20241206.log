@@ -1,0 +1,672 @@
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T18:52:32.118Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T18:52:33.137Z"}
+{"level":"error","message":"General processing error: files is not defined","timestamp":"2024-12-06T18:52:33.138Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T18:52:33.139Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T18:55:11.347Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T18:55:12.305Z"}
+{"level":"error","message":"General processing error: ENOENT: no such file or directory, scandir '/Users/pgallardo/development/javascript/s9_xml_data/src/Users/pgallardo/development/python/Super9-InformeCarnes/xml_test'","timestamp":"2024-12-06T18:55:12.306Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T18:55:12.307Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T18:56:06.654Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T18:56:07.509Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670452.xml: processXmlFile is not defined","timestamp":"2024-12-06T18:56:07.511Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670453.xml: processXmlFile is not defined","timestamp":"2024-12-06T18:56:07.511Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670454.xml: processXmlFile is not defined","timestamp":"2024-12-06T18:56:07.512Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671098.xml: processXmlFile is not defined","timestamp":"2024-12-06T18:56:07.512Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671099.xml: processXmlFile is not defined","timestamp":"2024-12-06T18:56:07.512Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94672458.xml: processXmlFile is not defined","timestamp":"2024-12-06T18:56:07.512Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94674466.xml: processXmlFile is not defined","timestamp":"2024-12-06T18:56:07.512Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792347.xml: processXmlFile is not defined","timestamp":"2024-12-06T18:56:07.513Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792360.xml: processXmlFile is not defined","timestamp":"2024-12-06T18:56:07.513Z"}
+{"level":"warn","message":"Se encontraron 9 errores durante el procesamiento","timestamp":"2024-12-06T18:56:07.514Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T18:56:07.514Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T18:56:57.746Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T18:56:58.301Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670452.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:56:58.309Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670453.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:56:58.312Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670454.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:56:58.315Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671098.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:56:58.317Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671099.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:56:58.320Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94672458.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:56:58.322Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94674466.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:56:58.324Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792347.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:56:58.326Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792360.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:56:58.328Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T18:56:58.329Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T18:57:29.365Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T18:57:29.895Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670452.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:57:29.900Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670453.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:57:29.903Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670454.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:57:29.905Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671098.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:57:29.907Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671099.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:57:29.910Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94672458.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:57:29.911Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94674466.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:57:29.914Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792347.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:57:29.915Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792360.xml: Cannot read properties of undefined (reading 'RUTEmisor')","timestamp":"2024-12-06T18:57:29.917Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T18:57:29.918Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T18:58:22.799Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T18:58:23.568Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670452.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:23.574Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670453.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:23.577Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670454.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:23.580Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671098.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:23.582Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671099.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:23.585Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94672458.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:23.586Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94674466.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:23.589Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792347.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:23.592Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792360.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:23.595Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T18:58:23.596Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T18:58:37.595Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T18:58:37.964Z"}
+{"level":"info","message":"Estructura del primer XML:","timestamp":"2024-12-06T18:58:37.965Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670452.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:37.974Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670453.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:37.979Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670454.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:37.983Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671098.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:37.986Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671099.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:37.990Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94672458.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:37.993Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94674466.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:37.996Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792347.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:37.999Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792360.xml: No se encontró emisor o folio en el XML","timestamp":"2024-12-06T18:58:38.000Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T18:58:38.001Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:01:54.858Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:01:56.455Z"}
+{"level":"info","message":"Estructura del primer XML:","timestamp":"2024-12-06T19:01:56.457Z"}
+{"level":"info","message":"Contenido XML raw:","timestamp":"2024-12-06T19:01:56.457Z"}
+{"level":"info","message":"Estructura parseada:","timestamp":"2024-12-06T19:01:56.464Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670452.xml: No se encontró emisor o folio en el XML. Emisor: undefined, Folio: 94670452","timestamp":"2024-12-06T19:01:56.464Z"}
+{"level":"info","message":"Contenido XML raw:","timestamp":"2024-12-06T19:01:56.465Z"}
+{"level":"info","message":"Estructura parseada:","timestamp":"2024-12-06T19:01:56.468Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670453.xml: No se encontró emisor o folio en el XML. Emisor: undefined, Folio: 94670453","timestamp":"2024-12-06T19:01:56.468Z"}
+{"level":"info","message":"Contenido XML raw:","timestamp":"2024-12-06T19:01:56.469Z"}
+{"level":"info","message":"Estructura parseada:","timestamp":"2024-12-06T19:01:56.471Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670454.xml: No se encontró emisor o folio en el XML. Emisor: undefined, Folio: 94670454","timestamp":"2024-12-06T19:01:56.471Z"}
+{"level":"info","message":"Contenido XML raw:","timestamp":"2024-12-06T19:01:56.472Z"}
+{"level":"info","message":"Estructura parseada:","timestamp":"2024-12-06T19:01:56.474Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671098.xml: No se encontró emisor o folio en el XML. Emisor: undefined, Folio: 94671098","timestamp":"2024-12-06T19:01:56.474Z"}
+{"level":"info","message":"Contenido XML raw:","timestamp":"2024-12-06T19:01:56.474Z"}
+{"level":"info","message":"Estructura parseada:","timestamp":"2024-12-06T19:01:56.477Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671099.xml: No se encontró emisor o folio en el XML. Emisor: undefined, Folio: 94671099","timestamp":"2024-12-06T19:01:56.477Z"}
+{"level":"info","message":"Contenido XML raw:","timestamp":"2024-12-06T19:01:56.477Z"}
+{"level":"info","message":"Estructura parseada:","timestamp":"2024-12-06T19:01:56.479Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94672458.xml: No se encontró emisor o folio en el XML. Emisor: undefined, Folio: 94672458","timestamp":"2024-12-06T19:01:56.479Z"}
+{"level":"info","message":"Contenido XML raw:","timestamp":"2024-12-06T19:01:56.479Z"}
+{"level":"info","message":"Estructura parseada:","timestamp":"2024-12-06T19:01:56.481Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94674466.xml: No se encontró emisor o folio en el XML. Emisor: undefined, Folio: 94674466","timestamp":"2024-12-06T19:01:56.482Z"}
+{"level":"info","message":"Contenido XML raw:","timestamp":"2024-12-06T19:01:56.483Z"}
+{"level":"info","message":"Estructura parseada:","timestamp":"2024-12-06T19:01:56.485Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792347.xml: No se encontró emisor o folio en el XML. Emisor: undefined, Folio: 94792347","timestamp":"2024-12-06T19:01:56.485Z"}
+{"level":"info","message":"Contenido XML raw:","timestamp":"2024-12-06T19:01:56.486Z"}
+{"level":"info","message":"Estructura parseada:","timestamp":"2024-12-06T19:01:56.487Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792360.xml: No se encontró emisor o folio en el XML. Emisor: undefined, Folio: 94792360","timestamp":"2024-12-06T19:01:56.488Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T19:01:56.488Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:02:56.868Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:02:57.611Z"}
+{"level":"info","message":"Estructura del primer XML:","timestamp":"2024-12-06T19:02:57.612Z"}
+{"level":"info","message":"Contenido XML raw para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670452.xml:","timestamp":"2024-12-06T19:02:57.613Z"}
+{"level":"info","message":"Estructura parseada para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670452.xml:","timestamp":"2024-12-06T19:02:57.619Z"}
+{"level":"info","message":"Contenido XML raw para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670453.xml:","timestamp":"2024-12-06T19:02:57.871Z"}
+{"level":"info","message":"Estructura parseada para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670453.xml:","timestamp":"2024-12-06T19:02:57.874Z"}
+{"level":"info","message":"Contenido XML raw para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670454.xml:","timestamp":"2024-12-06T19:02:58.132Z"}
+{"level":"info","message":"Estructura parseada para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670454.xml:","timestamp":"2024-12-06T19:02:58.136Z"}
+{"level":"info","message":"Contenido XML raw para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671098.xml:","timestamp":"2024-12-06T19:02:58.493Z"}
+{"level":"info","message":"Estructura parseada para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671098.xml:","timestamp":"2024-12-06T19:02:58.495Z"}
+{"level":"info","message":"Contenido XML raw para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671099.xml:","timestamp":"2024-12-06T19:02:58.755Z"}
+{"level":"info","message":"Estructura parseada para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671099.xml:","timestamp":"2024-12-06T19:02:58.758Z"}
+{"level":"info","message":"Contenido XML raw para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94672458.xml:","timestamp":"2024-12-06T19:02:59.027Z"}
+{"level":"info","message":"Estructura parseada para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94672458.xml:","timestamp":"2024-12-06T19:02:59.030Z"}
+{"level":"info","message":"Contenido XML raw para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94674466.xml:","timestamp":"2024-12-06T19:02:59.297Z"}
+{"level":"info","message":"Estructura parseada para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94674466.xml:","timestamp":"2024-12-06T19:02:59.299Z"}
+{"level":"info","message":"Contenido XML raw para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792347.xml:","timestamp":"2024-12-06T19:02:59.564Z"}
+{"level":"info","message":"Estructura parseada para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792347.xml:","timestamp":"2024-12-06T19:02:59.566Z"}
+{"level":"info","message":"Contenido XML raw para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792360.xml:","timestamp":"2024-12-06T19:02:59.829Z"}
+{"level":"info","message":"Estructura parseada para /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792360.xml:","timestamp":"2024-12-06T19:02:59.831Z"}
+{"level":"error","message":"General processing error: Column 'emisor' of relation 'xml_data' does not exist","timestamp":"2024-12-06T19:03:00.390Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T19:03:00.392Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:05:13.775Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:05:14.308Z"}
+{"level":"info","message":"Estructura del primer XML:","timestamp":"2024-12-06T19:05:14.309Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T19:05:16.535Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:21:18.973Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:21:19.962Z"}
+{"level":"info","message":"Estructura del primer XML:","timestamp":"2024-12-06T19:21:19.965Z"}
+{"level":"error","message":"General processing error: Column 'emisor' of relation 'xml_data' does not exist","timestamp":"2024-12-06T19:21:24.085Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T19:21:24.088Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:23:54.985Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:23:55.512Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T19:23:55.826Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:27:35.992Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:27:36.986Z"}
+{"level":"error","message":"Error verificando archivo procesado: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:27:37.223Z"}
+{"level":"error","message":"Error verificando archivo procesado: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:27:38.150Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670453.xml: Error registrando archivo procesado: duplicate key value violates unique constraint \"processed_xml_emisor_folio_key\"","timestamp":"2024-12-06T19:27:38.391Z"}
+{"level":"error","message":"Error verificando archivo procesado: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:27:39.055Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670454.xml: Error registrando archivo procesado: duplicate key value violates unique constraint \"processed_xml_emisor_folio_key\"","timestamp":"2024-12-06T19:27:39.288Z"}
+{"level":"error","message":"Error verificando archivo procesado: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:27:39.533Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671098.xml: Error registrando archivo procesado: duplicate key value violates unique constraint \"processed_xml_emisor_folio_key\"","timestamp":"2024-12-06T19:27:39.784Z"}
+{"level":"error","message":"Error verificando archivo procesado: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:27:40.399Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671099.xml: Error registrando archivo procesado: duplicate key value violates unique constraint \"processed_xml_emisor_folio_key\"","timestamp":"2024-12-06T19:27:40.660Z"}
+{"level":"error","message":"Error verificando archivo procesado: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:27:40.911Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94672458.xml: Error registrando archivo procesado: duplicate key value violates unique constraint \"processed_xml_emisor_folio_key\"","timestamp":"2024-12-06T19:27:41.145Z"}
+{"level":"error","message":"Error verificando archivo procesado: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:27:41.420Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94674466.xml: Error registrando archivo procesado: duplicate key value violates unique constraint \"processed_xml_emisor_folio_key\"","timestamp":"2024-12-06T19:27:41.666Z"}
+{"level":"error","message":"Error verificando archivo procesado: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:27:41.939Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792347.xml: Error registrando archivo procesado: duplicate key value violates unique constraint \"processed_xml_emisor_folio_key\"","timestamp":"2024-12-06T19:27:42.193Z"}
+{"level":"error","message":"Error verificando archivo procesado: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:27:42.500Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792360.xml: Error registrando archivo procesado: duplicate key value violates unique constraint \"processed_xml_emisor_folio_key\"","timestamp":"2024-12-06T19:27:42.749Z"}
+{"level":"warn","message":"Se encontraron 8 errores durante el procesamiento","timestamp":"2024-12-06T19:27:43.002Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T19:27:43.002Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:27:54.007Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:27:54.605Z"}
+{"level":"error","message":"Error verificando archivo procesado: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:27:55.609Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670453.xml: Error registrando archivo procesado: duplicate key value violates unique constraint \"processed_xml_emisor_folio_key\"","timestamp":"2024-12-06T19:27:55.918Z"}
+{"level":"error","message":"Error verificando archivo procesado: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:27:56.289Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94670454.xml: Error registrando archivo procesado: duplicate key value violates unique constraint \"processed_xml_emisor_folio_key\"","timestamp":"2024-12-06T19:27:56.561Z"}
+{"level":"error","message":"Error verificando archivo procesado: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:27:56.839Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671098.xml: Error registrando archivo procesado: duplicate key value violates unique constraint \"processed_xml_emisor_folio_key\"","timestamp":"2024-12-06T19:27:57.104Z"}
+{"level":"error","message":"Error verificando archivo procesado: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:27:57.454Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94671099.xml: Error registrando archivo procesado: duplicate key value violates unique constraint \"processed_xml_emisor_folio_key\"","timestamp":"2024-12-06T19:27:57.723Z"}
+{"level":"error","message":"Error verificando archivo procesado: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:27:57.978Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94672458.xml: Error registrando archivo procesado: duplicate key value violates unique constraint \"processed_xml_emisor_folio_key\"","timestamp":"2024-12-06T19:27:58.272Z"}
+{"level":"error","message":"Error verificando archivo procesado: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:27:58.580Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94674466.xml: Error registrando archivo procesado: duplicate key value violates unique constraint \"processed_xml_emisor_folio_key\"","timestamp":"2024-12-06T19:27:58.841Z"}
+{"level":"error","message":"Error verificando archivo procesado: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:27:59.107Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792347.xml: Error registrando archivo procesado: duplicate key value violates unique constraint \"processed_xml_emisor_folio_key\"","timestamp":"2024-12-06T19:27:59.379Z"}
+{"level":"error","message":"Error verificando archivo procesado: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:27:59.703Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_test/79984240-8_94792360.xml: Error registrando archivo procesado: duplicate key value violates unique constraint \"processed_xml_emisor_folio_key\"","timestamp":"2024-12-06T19:27:59.947Z"}
+{"level":"warn","message":"Se encontraron 8 errores durante el procesamiento","timestamp":"2024-12-06T19:27:59.948Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T19:27:59.948Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:28:56.855Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:28:57.210Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T19:29:01.796Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:29:59.417Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:30:00.066Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T19:30:06.017Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:32:13.507Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:32:14.019Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:32:41.463Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:32:41.968Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T19:32:47.845Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:34:25.471Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:34:25.819Z"}
+{"level":"error","message":"Error obteniendo datos de super9_ine: column super9_ine.rut does not exist","timestamp":"2024-12-06T19:34:26.375Z"}
+{"level":"error","message":"Error obteniendo datos de super9_ine: column super9_ine.rut does not exist","timestamp":"2024-12-06T19:34:27.402Z"}
+{"level":"error","message":"Error obteniendo datos de super9_ine: column super9_ine.rut does not exist","timestamp":"2024-12-06T19:34:28.209Z"}
+{"level":"error","message":"Error obteniendo datos de super9_ine: column super9_ine.rut does not exist","timestamp":"2024-12-06T19:34:29.089Z"}
+{"level":"error","message":"Error obteniendo datos de super9_ine: column super9_ine.rut does not exist","timestamp":"2024-12-06T19:34:30.256Z"}
+{"level":"error","message":"Error obteniendo datos de super9_ine: column super9_ine.rut does not exist","timestamp":"2024-12-06T19:34:31.006Z"}
+{"level":"error","message":"Error obteniendo datos de super9_ine: column super9_ine.rut does not exist","timestamp":"2024-12-06T19:34:31.906Z"}
+{"level":"error","message":"Error obteniendo datos de super9_ine: column super9_ine.rut does not exist","timestamp":"2024-12-06T19:34:32.638Z"}
+{"level":"error","message":"Error obteniendo datos de super9_ine: column super9_ine.rut does not exist","timestamp":"2024-12-06T19:34:33.413Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T19:34:33.941Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:35:52.735Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:35:53.099Z"}
+{"level":"error","message":"Error obteniendo datos de super9_ine: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:35:53.928Z"}
+{"level":"warn","message":"No se encontraron datos en super9_ine para el receptor: 8921572-2","timestamp":"2024-12-06T19:35:53.929Z"}
+{"level":"error","message":"Error obteniendo datos de super9_ine: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:35:54.752Z"}
+{"level":"warn","message":"No se encontraron datos en super9_ine para el receptor: 8921572-2","timestamp":"2024-12-06T19:35:54.753Z"}
+{"level":"error","message":"Error obteniendo datos de super9_ine: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:35:55.589Z"}
+{"level":"warn","message":"No se encontraron datos en super9_ine para el receptor: 5845580-6","timestamp":"2024-12-06T19:35:55.590Z"}
+{"level":"error","message":"Error obteniendo datos de super9_ine: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:35:56.403Z"}
+{"level":"warn","message":"No se encontraron datos en super9_ine para el receptor: 5845580-6","timestamp":"2024-12-06T19:35:56.404Z"}
+{"level":"error","message":"Error obteniendo datos de super9_ine: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:35:57.164Z"}
+{"level":"warn","message":"No se encontraron datos en super9_ine para el receptor: 5845580-6","timestamp":"2024-12-06T19:35:57.165Z"}
+{"level":"error","message":"Error obteniendo datos de super9_ine: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:35:58.024Z"}
+{"level":"warn","message":"No se encontraron datos en super9_ine para el receptor: 5845580-6","timestamp":"2024-12-06T19:35:58.025Z"}
+{"level":"error","message":"Error obteniendo datos de super9_ine: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:35:58.941Z"}
+{"level":"warn","message":"No se encontraron datos en super9_ine para el receptor: 5845580-6","timestamp":"2024-12-06T19:35:58.942Z"}
+{"level":"error","message":"Error obteniendo datos de super9_ine: JSON object requested, multiple (or no) rows returned","timestamp":"2024-12-06T19:35:59.870Z"}
+{"level":"warn","message":"No se encontraron datos en super9_ine para el receptor: 5845580-6","timestamp":"2024-12-06T19:35:59.871Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T19:36:00.121Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:37:21.150Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:37:21.987Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T19:37:28.365Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:38:01.398Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:38:01.712Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T19:38:09.309Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:39:33.586Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:39:34.114Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T19:39:44.610Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:41:49.290Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:41:49.851Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7903856.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:41:50.461Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7903857.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:41:51.035Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921924.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:41:51.590Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921925.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:41:52.205Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921926.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:41:52.815Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921927.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:41:53.433Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921928.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:41:53.979Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921929.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:41:54.563Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921934.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:41:55.170Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921935.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:41:55.785Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921936.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:41:56.296Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921937.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:41:56.902Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921940.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:41:57.521Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921941.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:41:58.074Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921942.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:41:58.585Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921943.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:41:59.072Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921944.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:41:59.637Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921945.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:00.190Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921946.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:00.734Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921952.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:01.222Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921953.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:01.825Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921956.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:02.338Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921957.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:02.893Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921958.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:03.385Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7921959.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:03.906Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7924071.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:04.653Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7924072.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:05.205Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7924078.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:05.819Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7924082.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:06.331Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7924083.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:06.902Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7924084.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:07.560Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7924085.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:08.109Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7924086.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:08.685Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7924088.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:09.198Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7924092.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:09.812Z"}
+{"level":"error","message":"Error procesando XML /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/79662080-3_7924093.xml: detalle.CdgItem.find is not a function","timestamp":"2024-12-06T19:42:10.318Z"}
+{"level":"info","message":"Recibida señal de interrupción. Cerrando aplicación...","timestamp":"2024-12-06T19:42:10.655Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T19:43:23.601Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T19:43:24.128Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4466485.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:16:39.126Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4466517.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:16:40.454Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4466518.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:16:41.725Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4469186.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:16:43.047Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4469281.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:16:44.451Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4470608.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:16:45.870Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4470654.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:16:47.194Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4470664.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:16:48.508Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4472423.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:16:49.860Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4472472.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:16:51.516Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4472473.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:16:52.904Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4473393.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:16:54.516Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4473879.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:16:56.076Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4475203.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:16:57.557Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4476254.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:16:59.195Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4477757.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:00.629Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4477833.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:02.142Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4479414.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:03.701Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4479478.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:05.033Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4479481.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:06.392Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4480866.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:07.883Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4480880.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:09.325Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4480887.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:10.746Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4480890.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:12.168Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4480938.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:13.670Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4482022.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:15.272Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4482027.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:16.808Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4484823.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:18.346Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4484825.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:19.943Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4486376.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:21.416Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4486473.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:22.943Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4486511.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:24.512Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4486532.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:25.903Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4487957.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:27.474Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4487971.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:28.892Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4487981.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:30.381Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4488032.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:31.863Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4488897.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:33.602Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/80634800-7_4494094.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:35.109Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35964963.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:36.676Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35964964.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:38.197Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35964965.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:39.746Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35964966.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:41.282Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35966130.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:42.698Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35966131.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:44.212Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35966132.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:45.815Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35966133.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:47.427Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35966134.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:48.892Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35966135.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:50.366Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35966136.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:51.932Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35966308.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:53.533Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35966309.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:54.981Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35971430.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:56.545Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35975968.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:57.981Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35975969.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:17:59.374Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35975970.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:00.935Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35975971.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:02.480Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35975972.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:04.221Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35975973.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:05.674Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35975974.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:07.145Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35975975.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:08.726Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976183.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:10.122Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976184.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:11.593Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976185.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:13.278Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976188.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:14.892Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976189.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:16.444Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976221.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:17.986Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976222.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:19.558Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976223.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:21.121Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976224.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:22.754Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976225.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:24.189Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976226.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:25.726Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976415.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:27.262Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976416.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:28.825Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976417.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:30.228Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976418.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:31.858Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976520.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:33.510Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976523.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:34.977Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976524.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:36.379Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976525.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:37.917Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976526.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:39.496Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976527.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:41.300Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976528.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:42.839Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976529.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:44.362Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976530.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:45.937Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976531.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:47.744Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35976532.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:49.524Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35977503.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:51.034Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35977504.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:52.761Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35977505.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:54.331Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35977506.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:55.907Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35977507.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:57.471Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35977508.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:18:59.135Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35977509.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:00.643Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988623.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:02.182Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988624.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:03.819Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988625.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:05.456Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988626.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:06.950Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988627.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:08.350Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988628.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:09.812Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988629.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:11.240Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988630.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:12.828Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988631.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:14.374Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988792.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:15.896Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988793.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:17.541Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988794.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:19.020Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988795.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:20.671Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988796.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:22.353Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988797.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:24.004Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988798.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:25.636Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988799.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:27.271Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988800.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:28.866Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988801.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:30.440Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988831.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:32.022Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988832.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:33.443Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35988833.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:34.964Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35989252.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:36.449Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35989253.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:38.139Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35989254.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:39.727Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35989255.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:41.202Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35989256.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:43.033Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35989257.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:44.707Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35989258.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:46.314Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35989259.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:47.849Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35989260.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:49.473Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35989261.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:51.008Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35990770.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:52.665Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35990771.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:54.073Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35990772.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:55.635Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35990773.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:57.170Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_35990774.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:19:58.691Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002030.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:00.213Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002031.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:01.586Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002032.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:03.026Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002033.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:04.672Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002034.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:06.178Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002035.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:07.592Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002036.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:08.980Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002037.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:10.577Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002442.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:11.967Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002443.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:13.489Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002444.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:14.919Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002445.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:16.262Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002446.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:17.804Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002447.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:19.246Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002459.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:20.715Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002460.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:22.170Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002461.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:23.642Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36002462.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:25.241Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003315.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:26.766Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003316.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:28.381Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003317.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:29.860Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003318.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:31.290Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003319.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:32.872Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003320.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:34.320Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003321.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:35.776Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003322.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:37.296Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003323.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:38.855Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003324.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:40.328Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003325.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:41.756Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003619.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:43.274Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003620.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:44.792Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003621.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:46.344Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003622.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:47.809Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003623.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:49.282Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003624.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:50.823Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003625.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:52.384Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36003626.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:53.869Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014111.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:55.347Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014112.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:56.847Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014113.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:20:58.447Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014114.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:00.047Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014115.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:01.493Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014268.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:03.001Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014269.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:04.640Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014270.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:06.291Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014271.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:07.873Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014272.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:09.510Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014273.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:11.009Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014274.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:12.510Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014275.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:13.963Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014290.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:15.575Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014325.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:17.049Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014326.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:18.693Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014332.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:20.380Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014343.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:21.918Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014345.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:23.725Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014346.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:25.342Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014798.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:30.019Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36014799.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:31.780Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024284.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:33.459Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024285.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:35.217Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024286.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:37.009Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024287.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:38.619Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024288.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:40.189Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024289.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:41.786Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024290.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:43.442Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024309.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:45.059Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024310.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:46.582Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024311.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:48.402Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024312.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:50.175Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024313.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:51.770Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024314.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:53.918Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024315.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:55.566Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024316.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:57.131Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024317.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:21:58.827Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024318.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:00.584Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024319.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:02.133Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024320.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:03.648Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024529.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:05.300Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024530.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:06.938Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024531.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:08.560Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024532.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:10.011Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024533.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:11.659Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024534.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:13.132Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024624.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:14.799Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024625.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:16.438Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024626.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:17.929Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024627.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:19.600Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36024628.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:21.148Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36031637.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:22.945Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36031638.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:24.544Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36031639.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:26.054Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36033926.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:27.548Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36033927.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:29.019Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36033928.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:30.544Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36033929.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:32.030Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36033930.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:33.745Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36033931.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:35.272Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36033932.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:36.814Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36036345.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:38.550Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039361.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:40.122Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039362.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:41.731Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039363.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:43.296Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039364.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:44.894Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039365.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:46.543Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039366.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:48.409Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039546.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:50.124Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039547.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:51.767Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039548.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:53.517Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039549.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:55.249Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039550.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:57.054Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039649.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:22:58.654Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039650.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:00.467Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039651.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:01.992Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039658.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:03.553Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039659.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:05.050Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039722.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:06.641Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039723.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:08.405Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039724.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:10.039Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039725.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:11.682Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039732.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:13.378Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039733.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:15.013Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039734.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:16.649Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039738.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:18.385Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039739.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:19.997Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039740.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:21.664Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039901.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:23.508Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36039902.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:25.253Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36042123.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:26.857Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36042124.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:28.580Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36042125.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:30.158Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36042126.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:31.703Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36042127.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:33.228Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36042128.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:34.876Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048427.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:36.563Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048428.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:38.222Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048450.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:39.925Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048451.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:42.013Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048453.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:43.933Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048455.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:45.545Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048456.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:47.191Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048611.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:48.717Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048612.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:50.431Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048613.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:52.240Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048614.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:53.893Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048615.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:55.607Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048616.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:57.282Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048617.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:23:59.092Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048618.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:00.759Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048619.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:02.512Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048620.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:04.253Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048744.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:06.017Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048745.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:07.642Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048746.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:09.357Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048747.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:10.982Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048748.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:12.845Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048749.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:14.501Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048750.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:16.257Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048848.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:18.179Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048849.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:19.964Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048850.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:21.660Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048851.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:23.627Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048852.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:25.410Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048853.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:27.003Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048854.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:28.628Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36048855.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:30.264Z"}
+{"level":"error","message":"Error processing file /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files/91004000-6_36053608.xml: ON CONFLICT DO UPDATE command cannot affect row a second time","timestamp":"2024-12-06T20:24:31.907Z"}
+{"level":"info","message":"Recibida señal de interrupción. Cerrando aplicación...","timestamp":"2024-12-06T20:24:32.981Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T20:41:16.006Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T20:41:16.951Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T20:42:20.439Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T20:42:21.239Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T20:43:05.149Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T20:43:06.045Z"}
+{"level":"info","message":"Procesando archivos en: [object Object]","timestamp":"2024-12-06T20:43:06.046Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T20:46:20.656Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T20:46:21.257Z"}
+{"level":"info","message":"Procesando archivos en: /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files","timestamp":"2024-12-06T20:46:21.257Z"}
+{"level":"info","message":"Encontrados 2537 archivos XML","timestamp":"2024-12-06T20:46:21.269Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T20:47:10.181Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T20:47:11.142Z"}
+{"level":"info","message":"Procesando archivos en: /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files","timestamp":"2024-12-06T20:47:11.142Z"}
+{"level":"info","message":"Encontrados 2537 archivos XML","timestamp":"2024-12-06T20:47:11.148Z"}
+{"level":"info","message":"Procesados 19300 items en total","timestamp":"2024-12-06T20:48:25.801Z"}
+{"level":"info","message":"Insertando 12672 items únicos","timestamp":"2024-12-06T20:48:25.826Z"}
+{"level":"error","message":"Error fatal en la aplicación: Cannot read properties of null (reading 'totalFiles')","timestamp":"2024-12-06T20:48:31.521Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T20:50:49.643Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T20:50:50.146Z"}
+{"level":"info","message":"Procesando archivos en: /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files","timestamp":"2024-12-06T20:50:50.146Z"}
+{"level":"info","message":"Encontrados 2537 archivos XML","timestamp":"2024-12-06T20:50:50.154Z"}
+{"level":"info","message":"Procesados 19300 items en total","timestamp":"2024-12-06T20:52:03.945Z"}
+{"level":"info","message":"Insertando 12672 items únicos","timestamp":"2024-12-06T20:52:03.975Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T20:52:10.078Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T20:57:45.897Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T20:57:46.484Z"}
+{"level":"info","message":"Procesando archivos en: /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files","timestamp":"2024-12-06T20:57:46.484Z"}
+{"level":"info","message":"Encontrados 2537 archivos XML","timestamp":"2024-12-06T20:57:46.489Z"}
+{"level":"info","message":"Procesados 19300 items totales (incluyendo duplicados)","timestamp":"2024-12-06T21:00:07.609Z"}
+{"level":"info","message":"Insertando 12672 items únicos (6569 duplicados eliminados)","timestamp":"2024-12-06T21:00:07.626Z"}
+{"level":"error","message":"Error registrando archivos procesados: Column 'processed_at' of relation 'processed_xml' does not exist","timestamp":"2024-12-06T21:00:14.022Z"}
+{"level":"warn","message":"Se encontraron 1 errores durante el procesamiento","timestamp":"2024-12-06T21:00:14.025Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T21:00:14.026Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T21:07:17.688Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T21:07:18.244Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T21:07:33.828Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T21:07:34.240Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T21:08:31.478Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T21:08:31.979Z"}
+{"level":"info","message":"Procesando archivos en: /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files","timestamp":"2024-12-06T21:08:31.979Z"}
+{"level":"info","message":"Encontrados 2537 archivos XML","timestamp":"2024-12-06T21:08:31.986Z"}
+{"level":"info","message":"Procesados 19300 items totales (incluyendo duplicados)","timestamp":"2024-12-06T21:10:53.585Z"}
+{"level":"info","message":"Insertando 12672 items únicos (6567 duplicados eliminados)","timestamp":"2024-12-06T21:10:53.618Z"}
+{"level":"error","message":"Error registrando archivos procesados: Column 'status' of relation 'processed_xml' does not exist","timestamp":"2024-12-06T21:10:59.896Z"}
+{"level":"info","message":"Log de duplicados guardado en: /Users/pgallardo/development/python/Super9-InformeCarnes/duplicados.log","timestamp":"2024-12-06T21:10:59.898Z"}
+{"level":"warn","message":"Se encontraron 1 errores durante el procesamiento","timestamp":"2024-12-06T21:10:59.899Z"}
+{"level":"info","message":"Finalizando aplicación...","timestamp":"2024-12-06T21:10:59.900Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T21:18:37.791Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T21:18:38.366Z"}
+{"level":"info","message":"Procesando archivos en: /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files","timestamp":"2024-12-06T21:18:38.367Z"}
+{"level":"info","message":"Encontrados 2537 archivos XML","timestamp":"2024-12-06T21:18:38.373Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T21:19:08.735Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T21:19:09.066Z"}
+{"level":"info","message":"Procesando archivos en: /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files","timestamp":"2024-12-06T21:19:09.066Z"}
+{"level":"info","message":"Encontrados 2537 archivos XML","timestamp":"2024-12-06T21:19:09.072Z"}
+{"level":"info","message":"Recibida señal de interrupción. Cerrando aplicación...","timestamp":"2024-12-06T21:19:23.959Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T21:19:57.006Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T21:19:57.330Z"}
+{"level":"info","message":"Procesando archivos en: /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files","timestamp":"2024-12-06T21:19:57.330Z"}
+{"level":"info","message":"Encontrados 2537 archivos XML","timestamp":"2024-12-06T21:19:57.337Z"}
+{"level":"info","message":"Procesados 7597 items totales (incluyendo duplicados)","timestamp":"2024-12-06T21:22:12.897Z"}
+{"level":"info","message":"Insertando 7597 items únicos (0 duplicados eliminados)","timestamp":"2024-12-06T21:22:12.914Z"}
+{"level":"error","message":"Error procesando archivos XML: Column 'filename' of relation 'xml_data' does not exist","timestamp":"2024-12-06T21:22:15.918Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T21:25:18.735Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T21:25:19.303Z"}
+{"level":"info","message":"Procesando archivos en: /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files","timestamp":"2024-12-06T21:25:19.303Z"}
+{"level":"info","message":"Encontrados 2537 archivos XML","timestamp":"2024-12-06T21:25:19.317Z"}
+{"level":"info","message":"Procesados 7597 items totales (incluyendo duplicados)","timestamp":"2024-12-06T21:27:43.486Z"}
+{"level":"info","message":"Insertando 7597 items únicos (0 duplicados eliminados)","timestamp":"2024-12-06T21:27:43.499Z"}
+{"level":"info","message":"Archivo 79662080-3_7903857.xml no contiene productos válidos","timestamp":"2024-12-06T21:27:46.662Z"}
+{"level":"info","message":"Iniciando procesamiento de archivos XML...","timestamp":"2024-12-06T21:31:43.277Z"}
+{"level":"info","message":"Conexión a Supabase establecida correctamente","timestamp":"2024-12-06T21:31:43.802Z"}
+{"level":"info","message":"Procesando archivos en: /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files","timestamp":"2024-12-06T21:31:43.802Z"}
+{"level":"info","message":"Encontrados 2537 archivos XML","timestamp":"2024-12-06T21:31:43.806Z"}
+{"level":"info","message":"Procesados 7597 items totales (incluyendo duplicados)","timestamp":"2024-12-06T21:34:06.918Z"}
+{"level":"info","message":"Insertando 7597 items únicos (0 duplicados eliminados)","timestamp":"2024-12-06T21:34:06.939Z"}
+{"level":"info","message":"Archivo 79662080-3_7903857.xml no contiene productos válidos","timestamp":"2024-12-06T21:34:10.190Z"}
+{"level":"info","message":"Iniciando exportación de datos...","timestamp":"2024-12-06T21:54:56.875Z"}
+{"level":"info","message":"CSV exportado exitosamente a: /Users/pgallardo/development/javascript/s9_xml_data/exports/xml_data_completo_2024-12-06T21-54-58-104Z.csv","timestamp":"2024-12-06T21:54:58.110Z"}
+{"level":"info","message":"Resumen por código exportado a: /Users/pgallardo/development/javascript/s9_xml_data/exports/resumen_por_codigo_completo_2024-12-06T21-54-58-104Z.csv","timestamp":"2024-12-06T21:54:58.112Z"}
+{"level":"info","message":"Exportación completada exitosamente","timestamp":"2024-12-06T21:54:58.112Z"}
+{"level":"info","message":"Archivo de datos: /Users/pgallardo/development/javascript/s9_xml_data/exports/xml_data_completo_2024-12-06T21-54-58-104Z.csv","timestamp":"2024-12-06T21:54:58.112Z"}
+{"level":"info","message":"Total de registros procesados: 1000","timestamp":"2024-12-06T21:54:58.112Z"}
+{"level":"info","message":"Iniciando exportación de datos XML...","timestamp":"2024-12-06T21:58:14.068Z"}
+{"level":"info","message":"Leyendo archivos XML de: /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files","timestamp":"2024-12-06T21:58:14.070Z"}
+{"level":"info","message":"Encontrados 2537 archivos XML","timestamp":"2024-12-06T21:58:14.073Z"}
+{"level":"info","message":"Procesados 4000 items...","timestamp":"2024-12-06T21:58:14.487Z"}
+{"level":"info","message":"Procesados 13000 items...","timestamp":"2024-12-06T21:58:14.899Z"}
+{"level":"info","message":"CSV exportado exitosamente a: /Users/pgallardo/development/javascript/s9_xml_data/exports/xml_data_2024-12-06T21-58-15-224Z.csv","timestamp":"2024-12-06T21:58:15.259Z"}
+{"level":"info","message":"Resumen por código exportado a: /Users/pgallardo/development/javascript/s9_xml_data/exports/resumen_por_codigo_2024-12-06T21-58-15-224Z.csv","timestamp":"2024-12-06T21:58:15.272Z"}
+{"level":"info","message":"Exportación completada exitosamente","timestamp":"2024-12-06T21:58:15.272Z"}
+{"level":"info","message":"Archivo de datos: /Users/pgallardo/development/javascript/s9_xml_data/exports/xml_data_2024-12-06T21-58-15-224Z.csv","timestamp":"2024-12-06T21:58:15.272Z"}
+{"level":"info","message":"Total de registros procesados: 19300","timestamp":"2024-12-06T21:58:15.272Z"}
+{"level":"info","message":"Iniciando exportación de datos XML...","timestamp":"2024-12-06T21:58:40.450Z"}
+{"level":"info","message":"Leyendo archivos XML de: /Users/pgallardo/development/python/Super9-InformeCarnes/xml_files","timestamp":"2024-12-06T21:58:40.451Z"}
+{"level":"info","message":"Encontrados 2537 archivos XML","timestamp":"2024-12-06T21:58:40.453Z"}
+{"level":"info","message":"Procesados 4000 items...","timestamp":"2024-12-06T21:58:40.860Z"}
+{"level":"info","message":"Procesados 13000 items...","timestamp":"2024-12-06T21:58:41.272Z"}
+{"level":"info","message":"CSV exportado exitosamente a: /Users/pgallardo/development/javascript/s9_xml_data/exports/xml_data_2024-12-06T21-58-41-600Z.csv","timestamp":"2024-12-06T21:58:41.636Z"}
+{"level":"info","message":"Resumen por código exportado a: /Users/pgallardo/development/javascript/s9_xml_data/exports/resumen_por_codigo_2024-12-06T21-58-41-600Z.csv","timestamp":"2024-12-06T21:58:41.649Z"}
+{"level":"info","message":"Exportación completada exitosamente","timestamp":"2024-12-06T21:58:41.649Z"}
+{"level":"info","message":"Archivo de datos: /Users/pgallardo/development/javascript/s9_xml_data/exports/xml_data_2024-12-06T21-58-41-600Z.csv","timestamp":"2024-12-06T21:58:41.649Z"}
+{"level":"info","message":"Total de registros procesados: 19300","timestamp":"2024-12-06T21:58:41.649Z"}
